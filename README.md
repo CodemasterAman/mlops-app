@@ -25,10 +25,6 @@ The primary objectives of this project include:
 - Data Orchestration: Orchestrating data workflows with Prefect.
 - Data Transformation: Utilizing dbt for data transformation in BigQuery.
 
-## Architecture
-
-![Architecture](assets/images/architecture.png)
-
 ## Project Structure
 
 ```text
